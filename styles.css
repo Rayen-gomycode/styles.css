@@ -1,0 +1,25 @@
+h1 { 
+color: aqua;
+}
+
+
+p {
+  border: 2PX solid brown ;
+}
+
+style
+div{
+background-color: blueviolet;
+font-size: 36 px;
+height: 200px;
+width: 200px;
+outline: 2px black solid;
+margin: 20px;
+}
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  nav {
+    display: inline;
+  }
+    
